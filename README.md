@@ -1,0 +1,2 @@
+# Snake
+Highschool coding project 
